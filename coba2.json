@@ -1,17 +1,17 @@
 {
   "afrika": [
-    "Siberia", "Algeria", "Libya", "Mesir"
+    "Rwanda", "Zimbabwe", "Kongo", "Nigeria"
   ],
   "eropa": [
-    "Italia", "Spanyol", "Perancis", "Belanda"
+    "Inggris", "Portugal", "Kazakhstan", "Jerman"
   ],
   "asia": [
-    "Indonesia", "Malaysia", "Singapura", "Thailand"
+    "Indonesia", "Jepang", "India", "China"
   ],
   "amerika": [
-    "USA", "Brazil", "Argentina", "Mexico"
+    "Mexico", "Venezuela", "Uruguay", "Chile"
   ],
   "australia": [
-    "Tasmania", "Queensland", "Victoria"
+    "Australia", "Queensland", "Victoria"
   ]
 }
